@@ -1,0 +1,522 @@
+Do you know the weather?
+Yes, I know the weather for the itinerary
+What's the temperature in Birmingham?
+Birmingham will reach 21°C today, with a low of 21°C
+What's today's temperature in Birmingham?
+Birmingham will reach 21°C today, with a low of 21°C
+Is Birmingham cold today?
+Birmingham will reach 21°C today, with a low of 21°C
+Birmingham's temperature today?
+Birmingham will reach 21°C today, with a low of 21°C
+When should I visit Birmingham?
+The best day to visit Birmingham is Wednesday
+What's the best day to visit Birmingham?
+The best day to visit Birmingham is Wednesday
+When will Birmingham have nice weather?
+The best day to visit Birmingham is Wednesday
+Is Birmingham nice?
+The best day to visit Birmingham is Wednesday
+Should I visit Birmingham this week?
+The best day to visit Birmingham is Wednesday
+Should I visit Birmingham?
+The best day to visit Birmingham is Wednesday
+What will the weather be in Birmingham on Tuesday morning?
+The weather in Birmingham on Tuesday morning will be 22.8°C with clear sky, 61.0 % humidity and 1.0 km/h winds. 
+Tuesday morning weather in Birmingham?
+The weather in Birmingham on Tuesday morning will be 22.8°C with clear sky, 61.0 % humidity and 1.0 km/h winds. 
+What will the weather be in Birmingham on Thursday morning?
+The weather in Birmingham on Thursday morning will be 17.8°C with overcast clouds, 66.0 % humidity and 13.2 km/h winds. 
+Thursday morning weather in Birmingham?
+The weather in Birmingham on Thursday morning will be 17.8°C with overcast clouds, 66.0 % humidity and 13.2 km/h winds. 
+What will the weather be in Birmingham on Wednesday morning?
+The weather in Birmingham on Wednesday morning will be 20.7°C with clear sky, 62.0 % humidity and 11.2 km/h winds. 
+Wednesday morning weather in Birmingham?
+The weather in Birmingham on Wednesday morning will be 20.7°C with clear sky, 62.0 % humidity and 11.2 km/h winds. 
+What will the weather be in Birmingham on Monday morning?
+The weather in Birmingham on Monday morning will be 21.2°C with few clouds, 65.0 % humidity and 9.7 km/h winds. 
+Monday morning weather in Birmingham?
+The weather in Birmingham on Monday morning will be 21.2°C with few clouds, 65.0 % humidity and 9.7 km/h winds. 
+What will the weather be in Birmingham on Tuesday afternoon?
+The weather in Birmingham on Tuesday afternoon will be 24.0°C with light rain, 61.0 % humidity and 6.2 km/h winds. 
+Tuesday afternoon weather in Birmingham?
+The weather in Birmingham on Tuesday afternoon will be 24.0°C with light rain, 61.0 % humidity and 6.2 km/h winds. 
+What will the weather be in Birmingham on Thursday afternoon?
+The weather in Birmingham on Thursday afternoon will be 17.1°C with light rain, 67.0 % humidity and 10.6 km/h winds. 
+Thursday afternoon weather in Birmingham?
+The weather in Birmingham on Thursday afternoon will be 17.1°C with light rain, 67.0 % humidity and 10.6 km/h winds. 
+What will the weather be in Birmingham on Wednesday afternoon?
+The weather in Birmingham on Wednesday afternoon will be 25.6°C with few clouds, 49.0 % humidity and 10.1 km/h winds. 
+Wednesday afternoon weather in Birmingham?
+The weather in Birmingham on Wednesday afternoon will be 25.6°C with few clouds, 49.0 % humidity and 10.1 km/h winds. 
+What will the weather be in Birmingham on Monday afternoon?
+The weather in Birmingham on Monday afternoon will be 23.2°C with broken clouds, 61.0 % humidity and 13.0 km/h winds. 
+Monday afternoon weather in Birmingham?
+The weather in Birmingham on Monday afternoon will be 23.2°C with broken clouds, 61.0 % humidity and 13.0 km/h winds. 
+What's the temperature in Bristol?
+Bristol will reach 18°C today, with a low of 18°C
+What's today's temperature in Bristol?
+Bristol will reach 18°C today, with a low of 18°C
+Is Bristol cold today?
+Bristol will reach 18°C today, with a low of 18°C
+Bristol's temperature today?
+Bristol will reach 18°C today, with a low of 18°C
+When should I visit Bristol?
+The best day to visit Bristol is Tuesday
+What's the best day to visit Bristol?
+The best day to visit Bristol is Tuesday
+When will Bristol have nice weather?
+The best day to visit Bristol is Tuesday
+Is Bristol nice?
+The best day to visit Bristol is Tuesday
+Should I visit Bristol this week?
+The best day to visit Bristol is Tuesday
+Should I visit Bristol?
+The best day to visit Bristol is Tuesday
+What will the weather be in Bristol on Tuesday morning?
+The weather in Bristol on Tuesday morning will be 21.1°C with clear sky, 70.0 % humidity and 1.5 km/h winds. 
+Tuesday morning weather in Bristol?
+The weather in Bristol on Tuesday morning will be 21.1°C with clear sky, 70.0 % humidity and 1.5 km/h winds. 
+What will the weather be in Bristol on Thursday morning?
+The weather in Bristol on Thursday morning will be 17.3°C with overcast clouds, 77.0 % humidity and 16.4 km/h winds. 
+Thursday morning weather in Bristol?
+The weather in Bristol on Thursday morning will be 17.3°C with overcast clouds, 77.0 % humidity and 16.4 km/h winds. 
+What will the weather be in Bristol on Wednesday morning?
+The weather in Bristol on Wednesday morning will be 21.5°C with clear sky, 70.0 % humidity and 8.9 km/h winds. 
+Wednesday morning weather in Bristol?
+The weather in Bristol on Wednesday morning will be 21.5°C with clear sky, 70.0 % humidity and 8.9 km/h winds. 
+What will the weather be in Bristol on Monday morning?
+The weather in Bristol on Monday morning will be 20.4°C with clear sky, 72.0 % humidity and 6.4 km/h winds. 
+Monday morning weather in Bristol?
+The weather in Bristol on Monday morning will be 20.4°C with clear sky, 72.0 % humidity and 6.4 km/h winds. 
+What will the weather be in Bristol on Tuesday afternoon?
+The weather in Bristol on Tuesday afternoon will be 23.8°C with scattered clouds, 63.0 % humidity and 5.3 km/h winds. 
+Tuesday afternoon weather in Bristol?
+The weather in Bristol on Tuesday afternoon will be 23.8°C with scattered clouds, 63.0 % humidity and 5.3 km/h winds. 
+What will the weather be in Bristol on Thursday afternoon?
+The weather in Bristol on Thursday afternoon will be 18.8°C with scattered clouds, 58.0 % humidity and 23.9 km/h winds. 
+Thursday afternoon weather in Bristol?
+The weather in Bristol on Thursday afternoon will be 18.8°C with scattered clouds, 58.0 % humidity and 23.9 km/h winds. 
+What will the weather be in Bristol on Wednesday afternoon?
+The weather in Bristol on Wednesday afternoon will be 24.8°C with scattered clouds, 60.0 % humidity and 6.2 km/h winds. 
+Wednesday afternoon weather in Bristol?
+The weather in Bristol on Wednesday afternoon will be 24.8°C with scattered clouds, 60.0 % humidity and 6.2 km/h winds. 
+What will the weather be in Bristol on Monday afternoon?
+The weather in Bristol on Monday afternoon will be 21.5°C with broken clouds, 72.0 % humidity and 10.0 km/h winds. 
+Monday afternoon weather in Bristol?
+The weather in Bristol on Monday afternoon will be 21.5°C with broken clouds, 72.0 % humidity and 10.0 km/h winds. 
+What's the temperature in Cambridge?
+Cambridge will reach 21°C today, with a low of 21°C
+What's today's temperature in Cambridge?
+Cambridge will reach 21°C today, with a low of 21°C
+Is Cambridge cold today?
+Cambridge will reach 21°C today, with a low of 21°C
+Cambridge's temperature today?
+Cambridge will reach 21°C today, with a low of 21°C
+When should I visit Cambridge?
+The best day to visit Cambridge is Tuesday
+What's the best day to visit Cambridge?
+The best day to visit Cambridge is Tuesday
+When will Cambridge have nice weather?
+The best day to visit Cambridge is Tuesday
+Is Cambridge nice?
+The best day to visit Cambridge is Tuesday
+Should I visit Cambridge this week?
+The best day to visit Cambridge is Tuesday
+Should I visit Cambridge?
+The best day to visit Cambridge is Tuesday
+What will the weather be in Cambridge on Tuesday morning?
+The weather in Cambridge on Tuesday morning will be 21.2°C with clear sky, 70.0 % humidity and 5.5 km/h winds. 
+Tuesday morning weather in Cambridge?
+The weather in Cambridge on Tuesday morning will be 21.2°C with clear sky, 70.0 % humidity and 5.5 km/h winds. 
+What will the weather be in Cambridge on Thursday morning?
+The weather in Cambridge on Thursday morning will be 20.7°C with overcast clouds, 78.0 % humidity and 14.1 km/h winds. 
+Thursday morning weather in Cambridge?
+The weather in Cambridge on Thursday morning will be 20.7°C with overcast clouds, 78.0 % humidity and 14.1 km/h winds. 
+What will the weather be in Cambridge on Wednesday morning?
+The weather in Cambridge on Wednesday morning will be 21.8°C with few clouds, 78.0 % humidity and 10.0 km/h winds. 
+Wednesday morning weather in Cambridge?
+The weather in Cambridge on Wednesday morning will be 21.8°C with few clouds, 78.0 % humidity and 10.0 km/h winds. 
+What will the weather be in Cambridge on Monday morning?
+The weather in Cambridge on Monday morning will be 19.9°C with overcast clouds, 80.0 % humidity and 6.6 km/h winds. 
+Monday morning weather in Cambridge?
+The weather in Cambridge on Monday morning will be 19.9°C with overcast clouds, 80.0 % humidity and 6.6 km/h winds. 
+What will the weather be in Cambridge on Tuesday afternoon?
+The weather in Cambridge on Tuesday afternoon will be 24.7°C with few clouds, 59.0 % humidity and 10.3 km/h winds. 
+Tuesday afternoon weather in Cambridge?
+The weather in Cambridge on Tuesday afternoon will be 24.7°C with few clouds, 59.0 % humidity and 10.3 km/h winds. 
+What will the weather be in Cambridge on Thursday afternoon?
+The weather in Cambridge on Thursday afternoon will be 18.7°C with overcast clouds, 78.0 % humidity and 12.5 km/h winds. 
+Thursday afternoon weather in Cambridge?
+The weather in Cambridge on Thursday afternoon will be 18.7°C with overcast clouds, 78.0 % humidity and 12.5 km/h winds. 
+What will the weather be in Cambridge on Wednesday afternoon?
+The weather in Cambridge on Wednesday afternoon will be 24.4°C with light rain, 71.0 % humidity and 1.9 km/h winds. 
+Wednesday afternoon weather in Cambridge?
+The weather in Cambridge on Wednesday afternoon will be 24.4°C with light rain, 71.0 % humidity and 1.9 km/h winds. 
+What will the weather be in Cambridge on Monday afternoon?
+The weather in Cambridge on Monday afternoon will be 22.8°C with light rain, 70.0 % humidity and 6.5 km/h winds. 
+Monday afternoon weather in Cambridge?
+The weather in Cambridge on Monday afternoon will be 22.8°C with light rain, 70.0 % humidity and 6.5 km/h winds. 
+What's the temperature in Corfe Castle?
+Corfe Castle will reach 18°C today, with a low of 18°C
+What's today's temperature in Corfe Castle?
+Corfe Castle will reach 18°C today, with a low of 18°C
+Is Corfe Castle cold today?
+Corfe Castle will reach 18°C today, with a low of 18°C
+Corfe Castle's temperature today?
+Corfe Castle will reach 18°C today, with a low of 18°C
+When should I visit Corfe Castle?
+The best day to visit Corfe Castle is Tuesday
+What's the best day to visit Corfe Castle?
+The best day to visit Corfe Castle is Tuesday
+When will Corfe Castle have nice weather?
+The best day to visit Corfe Castle is Tuesday
+Is Corfe Castle nice?
+The best day to visit Corfe Castle is Tuesday
+Should I visit Corfe Castle this week?
+The best day to visit Corfe Castle is Tuesday
+Should I visit Corfe Castle?
+The best day to visit Corfe Castle is Tuesday
+What will the weather be in Corfe Castle on Tuesday morning?
+The weather in Corfe Castle on Tuesday morning will be 18.6°C with clear sky, 78.0 % humidity and 5.5 km/h winds. 
+Tuesday morning weather in Corfe Castle?
+The weather in Corfe Castle on Tuesday morning will be 18.6°C with clear sky, 78.0 % humidity and 5.5 km/h winds. 
+What will the weather be in Corfe Castle on Thursday morning?
+The weather in Corfe Castle on Thursday morning will be 17.2°C with overcast clouds, 75.0 % humidity and 13.9 km/h winds. 
+Thursday morning weather in Corfe Castle?
+The weather in Corfe Castle on Thursday morning will be 17.2°C with overcast clouds, 75.0 % humidity and 13.9 km/h winds. 
+What will the weather be in Corfe Castle on Wednesday morning?
+The weather in Corfe Castle on Wednesday morning will be 19.1°C with clear sky, 75.0 % humidity and 9.4 km/h winds. 
+Wednesday morning weather in Corfe Castle?
+The weather in Corfe Castle on Wednesday morning will be 19.1°C with clear sky, 75.0 % humidity and 9.4 km/h winds. 
+What will the weather be in Corfe Castle on Monday morning?
+The weather in Corfe Castle on Monday morning will be 17.9°C with clear sky, 79.0 % humidity and 8.6 km/h winds. 
+Monday morning weather in Corfe Castle?
+The weather in Corfe Castle on Monday morning will be 17.9°C with clear sky, 79.0 % humidity and 8.6 km/h winds. 
+What will the weather be in Corfe Castle on Tuesday afternoon?
+The weather in Corfe Castle on Tuesday afternoon will be 20.5°C with few clouds, 71.0 % humidity and 5.1 km/h winds. 
+Tuesday afternoon weather in Corfe Castle?
+The weather in Corfe Castle on Tuesday afternoon will be 20.5°C with few clouds, 71.0 % humidity and 5.1 km/h winds. 
+What will the weather be in Corfe Castle on Thursday afternoon?
+The weather in Corfe Castle on Thursday afternoon will be 17.9°C with broken clouds, 68.0 % humidity and 20.9 km/h winds. 
+Thursday afternoon weather in Corfe Castle?
+The weather in Corfe Castle on Thursday afternoon will be 17.9°C with broken clouds, 68.0 % humidity and 20.9 km/h winds. 
+What will the weather be in Corfe Castle on Wednesday afternoon?
+The weather in Corfe Castle on Wednesday afternoon will be 21.0°C with clear sky, 72.0 % humidity and 9.8 km/h winds. 
+Wednesday afternoon weather in Corfe Castle?
+The weather in Corfe Castle on Wednesday afternoon will be 21.0°C with clear sky, 72.0 % humidity and 9.8 km/h winds. 
+What will the weather be in Corfe Castle on Monday afternoon?
+The weather in Corfe Castle on Monday afternoon will be 18.9°C with few clouds, 77.0 % humidity and 8.3 km/h winds. 
+Monday afternoon weather in Corfe Castle?
+The weather in Corfe Castle on Monday afternoon will be 18.9°C with few clouds, 77.0 % humidity and 8.3 km/h winds. 
+What's the temperature in Cumbria?
+Cumbria will reach 11°C today, with a low of 11°C
+What's today's temperature in Cumbria?
+Cumbria will reach 11°C today, with a low of 11°C
+Is Cumbria cold today?
+Cumbria will reach 11°C today, with a low of 11°C
+Cumbria's temperature today?
+Cumbria will reach 11°C today, with a low of 11°C
+When should I visit Cumbria?
+The best day to visit Cumbria is Monday
+What's the best day to visit Cumbria?
+The best day to visit Cumbria is Monday
+When will Cumbria have nice weather?
+The best day to visit Cumbria is Monday
+Is Cumbria nice?
+The best day to visit Cumbria is Monday
+Should I visit Cumbria this week?
+The best day to visit Cumbria is Monday
+Should I visit Cumbria?
+The best day to visit Cumbria is Monday
+What will the weather be in Cumbria on Tuesday morning?
+The weather in Cumbria on Tuesday morning will be 16.4°C with few clouds, 79.0 % humidity and 5.9 km/h winds. 
+Tuesday morning weather in Cumbria?
+The weather in Cumbria on Tuesday morning will be 16.4°C with few clouds, 79.0 % humidity and 5.9 km/h winds. 
+What will the weather be in Cumbria on Thursday morning?
+The weather in Cumbria on Thursday morning will be 10.8°C with light rain, 89.0 % humidity and 7.5 km/h winds. 
+Thursday morning weather in Cumbria?
+The weather in Cumbria on Thursday morning will be 10.8°C with light rain, 89.0 % humidity and 7.5 km/h winds. 
+What will the weather be in Cumbria on Wednesday morning?
+The weather in Cumbria on Wednesday morning will be 16.1°C with broken clouds, 81.0 % humidity and 9.4 km/h winds. 
+Wednesday morning weather in Cumbria?
+The weather in Cumbria on Wednesday morning will be 16.1°C with broken clouds, 81.0 % humidity and 9.4 km/h winds. 
+What will the weather be in Cumbria on Monday morning?
+The weather in Cumbria on Monday morning will be 15.5°C with few clouds, 80.0 % humidity and 8.3 km/h winds. 
+Monday morning weather in Cumbria?
+The weather in Cumbria on Monday morning will be 15.5°C with few clouds, 80.0 % humidity and 8.3 km/h winds. 
+What will the weather be in Cumbria on Tuesday afternoon?
+The weather in Cumbria on Tuesday afternoon will be 17.8°C with light rain, 81.0 % humidity and 3.0 km/h winds. 
+Tuesday afternoon weather in Cumbria?
+The weather in Cumbria on Tuesday afternoon will be 17.8°C with light rain, 81.0 % humidity and 3.0 km/h winds. 
+What will the weather be in Cumbria on Thursday afternoon?
+The weather in Cumbria on Thursday afternoon will be 12.3°C with scattered clouds, 70.0 % humidity and 22.8 km/h winds. 
+Thursday afternoon weather in Cumbria?
+The weather in Cumbria on Thursday afternoon will be 12.3°C with scattered clouds, 70.0 % humidity and 22.8 km/h winds. 
+What will the weather be in Cumbria on Wednesday afternoon?
+The weather in Cumbria on Wednesday afternoon will be 19.3°C with light rain, 70.0 % humidity and 12.9 km/h winds. 
+Wednesday afternoon weather in Cumbria?
+The weather in Cumbria on Wednesday afternoon will be 19.3°C with light rain, 70.0 % humidity and 12.9 km/h winds. 
+What will the weather be in Cumbria on Monday afternoon?
+The weather in Cumbria on Monday afternoon will be 18.2°C with scattered clouds, 72.0 % humidity and 10.4 km/h winds. 
+Monday afternoon weather in Cumbria?
+The weather in Cumbria on Monday afternoon will be 18.2°C with scattered clouds, 72.0 % humidity and 10.4 km/h winds. 
+What's the temperature in Norwich?
+Norwich will reach 19°C today, with a low of 19°C
+What's today's temperature in Norwich?
+Norwich will reach 19°C today, with a low of 19°C
+Is Norwich cold today?
+Norwich will reach 19°C today, with a low of 19°C
+Norwich's temperature today?
+Norwich will reach 19°C today, with a low of 19°C
+When should I visit Norwich?
+The best day to visit Norwich is Monday
+What's the best day to visit Norwich?
+The best day to visit Norwich is Monday
+When will Norwich have nice weather?
+The best day to visit Norwich is Monday
+Is Norwich nice?
+The best day to visit Norwich is Monday
+Should I visit Norwich this week?
+The best day to visit Norwich is Monday
+Should I visit Norwich?
+The best day to visit Norwich is Monday
+What will the weather be in Norwich on Tuesday morning?
+The weather in Norwich on Tuesday morning will be 20.6°C with clear sky, 64.0 % humidity and 8.4 km/h winds. 
+Tuesday morning weather in Norwich?
+The weather in Norwich on Tuesday morning will be 20.6°C with clear sky, 64.0 % humidity and 8.4 km/h winds. 
+What will the weather be in Norwich on Thursday morning?
+The weather in Norwich on Thursday morning will be 22.6°C with light rain, 75.0 % humidity and 14.6 km/h winds. 
+Thursday morning weather in Norwich?
+The weather in Norwich on Thursday morning will be 22.6°C with light rain, 75.0 % humidity and 14.6 km/h winds. 
+What will the weather be in Norwich on Wednesday morning?
+The weather in Norwich on Wednesday morning will be 21.0°C with clear sky, 77.0 % humidity and 14.7 km/h winds. 
+Wednesday morning weather in Norwich?
+The weather in Norwich on Wednesday morning will be 21.0°C with clear sky, 77.0 % humidity and 14.7 km/h winds. 
+What will the weather be in Norwich on Monday morning?
+The weather in Norwich on Monday morning will be 20.0°C with overcast clouds, 75.0 % humidity and 7.8 km/h winds. 
+Monday morning weather in Norwich?
+The weather in Norwich on Monday morning will be 20.0°C with overcast clouds, 75.0 % humidity and 7.8 km/h winds. 
+What will the weather be in Norwich on Tuesday afternoon?
+The weather in Norwich on Tuesday afternoon will be 22.3°C with clear sky, 66.0 % humidity and 14.3 km/h winds. 
+Tuesday afternoon weather in Norwich?
+The weather in Norwich on Tuesday afternoon will be 22.3°C with clear sky, 66.0 % humidity and 14.3 km/h winds. 
+What will the weather be in Norwich on Thursday afternoon?
+The weather in Norwich on Thursday afternoon will be 21.8°C with light rain, 74.0 % humidity and 16.5 km/h winds. 
+Thursday afternoon weather in Norwich?
+The weather in Norwich on Thursday afternoon will be 21.8°C with light rain, 74.0 % humidity and 16.5 km/h winds. 
+What will the weather be in Norwich on Wednesday afternoon?
+The weather in Norwich on Wednesday afternoon will be 23.2°C with clear sky, 70.0 % humidity and 12.7 km/h winds. 
+Wednesday afternoon weather in Norwich?
+The weather in Norwich on Wednesday afternoon will be 23.2°C with clear sky, 70.0 % humidity and 12.7 km/h winds. 
+What will the weather be in Norwich on Monday afternoon?
+The weather in Norwich on Monday afternoon will be 21.8°C with overcast clouds, 74.0 % humidity and 12.2 km/h winds. 
+Monday afternoon weather in Norwich?
+The weather in Norwich on Monday afternoon will be 21.8°C with overcast clouds, 74.0 % humidity and 12.2 km/h winds. 
+What's the temperature in Oxford?
+Oxford will reach 20°C today, with a low of 20°C
+What's today's temperature in Oxford?
+Oxford will reach 20°C today, with a low of 20°C
+Is Oxford cold today?
+Oxford will reach 20°C today, with a low of 20°C
+Oxford's temperature today?
+Oxford will reach 20°C today, with a low of 20°C
+When should I visit Oxford?
+The best day to visit Oxford is Tuesday
+What's the best day to visit Oxford?
+The best day to visit Oxford is Tuesday
+When will Oxford have nice weather?
+The best day to visit Oxford is Tuesday
+Is Oxford nice?
+The best day to visit Oxford is Tuesday
+Should I visit Oxford this week?
+The best day to visit Oxford is Tuesday
+Should I visit Oxford?
+The best day to visit Oxford is Tuesday
+What will the weather be in Oxford on Tuesday morning?
+The weather in Oxford on Tuesday morning will be 20.7°C with clear sky, 68.0 % humidity and 5.3 km/h winds. 
+Tuesday morning weather in Oxford?
+The weather in Oxford on Tuesday morning will be 20.7°C with clear sky, 68.0 % humidity and 5.3 km/h winds. 
+What will the weather be in Oxford on Thursday morning?
+The weather in Oxford on Thursday morning will be 18.6°C with overcast clouds, 78.0 % humidity and 11.7 km/h winds. 
+Thursday morning weather in Oxford?
+The weather in Oxford on Thursday morning will be 18.6°C with overcast clouds, 78.0 % humidity and 11.7 km/h winds. 
+What will the weather be in Oxford on Wednesday morning?
+The weather in Oxford on Wednesday morning will be 20.3°C with clear sky, 76.0 % humidity and 10.1 km/h winds. 
+Wednesday morning weather in Oxford?
+The weather in Oxford on Wednesday morning will be 20.3°C with clear sky, 76.0 % humidity and 10.1 km/h winds. 
+What will the weather be in Oxford on Monday morning?
+The weather in Oxford on Monday morning will be 20.5°C with broken clouds, 74.0 % humidity and 6.9 km/h winds. 
+Monday morning weather in Oxford?
+The weather in Oxford on Monday morning will be 20.5°C with broken clouds, 74.0 % humidity and 6.9 km/h winds. 
+What will the weather be in Oxford on Tuesday afternoon?
+The weather in Oxford on Tuesday afternoon will be 24.6°C with clear sky, 56.0 % humidity and 6.2 km/h winds. 
+Tuesday afternoon weather in Oxford?
+The weather in Oxford on Tuesday afternoon will be 24.6°C with clear sky, 56.0 % humidity and 6.2 km/h winds. 
+What will the weather be in Oxford on Thursday afternoon?
+The weather in Oxford on Thursday afternoon will be 17.3°C with light rain, 79.0 % humidity and 16.4 km/h winds. 
+Thursday afternoon weather in Oxford?
+The weather in Oxford on Thursday afternoon will be 17.3°C with light rain, 79.0 % humidity and 16.4 km/h winds. 
+What will the weather be in Oxford on Wednesday afternoon?
+The weather in Oxford on Wednesday afternoon will be 25.3°C with light rain, 60.0 % humidity and 3.6 km/h winds. 
+Wednesday afternoon weather in Oxford?
+The weather in Oxford on Wednesday afternoon will be 25.3°C with light rain, 60.0 % humidity and 3.6 km/h winds. 
+What will the weather be in Oxford on Monday afternoon?
+The weather in Oxford on Monday afternoon will be 21.7°C with overcast clouds, 72.0 % humidity and 8.9 km/h winds. 
+Monday afternoon weather in Oxford?
+The weather in Oxford on Monday afternoon will be 21.7°C with overcast clouds, 72.0 % humidity and 8.9 km/h winds. 
+What's the temperature in Stonehenge?
+Stonehenge will reach 19°C today, with a low of 19°C
+What's today's temperature in Stonehenge?
+Stonehenge will reach 19°C today, with a low of 19°C
+Is Stonehenge cold today?
+Stonehenge will reach 19°C today, with a low of 19°C
+Stonehenge's temperature today?
+Stonehenge will reach 19°C today, with a low of 19°C
+When should I visit Stonehenge?
+The best day to visit Stonehenge is Tuesday
+What's the best day to visit Stonehenge?
+The best day to visit Stonehenge is Tuesday
+When will Stonehenge have nice weather?
+The best day to visit Stonehenge is Tuesday
+Is Stonehenge nice?
+The best day to visit Stonehenge is Tuesday
+Should I visit Stonehenge this week?
+The best day to visit Stonehenge is Tuesday
+Should I visit Stonehenge?
+The best day to visit Stonehenge is Tuesday
+What will the weather be in Stonehenge on Tuesday morning?
+The weather in Stonehenge on Tuesday morning will be 20.2°C with clear sky, 74.0 % humidity and 2.8 km/h winds. 
+Tuesday morning weather in Stonehenge?
+The weather in Stonehenge on Tuesday morning will be 20.2°C with clear sky, 74.0 % humidity and 2.8 km/h winds. 
+What will the weather be in Stonehenge on Thursday morning?
+The weather in Stonehenge on Thursday morning will be 17.4°C with overcast clouds, 68.0 % humidity and 16.4 km/h winds. 
+Thursday morning weather in Stonehenge?
+The weather in Stonehenge on Thursday morning will be 17.4°C with overcast clouds, 68.0 % humidity and 16.4 km/h winds. 
+What will the weather be in Stonehenge on Wednesday morning?
+The weather in Stonehenge on Wednesday morning will be 20.7°C with clear sky, 73.0 % humidity and 9.0 km/h winds. 
+Wednesday morning weather in Stonehenge?
+The weather in Stonehenge on Wednesday morning will be 20.7°C with clear sky, 73.0 % humidity and 9.0 km/h winds. 
+What will the weather be in Stonehenge on Monday morning?
+The weather in Stonehenge on Monday morning will be 19.5°C with clear sky, 75.0 % humidity and 9.1 km/h winds. 
+Monday morning weather in Stonehenge?
+The weather in Stonehenge on Monday morning will be 19.5°C with clear sky, 75.0 % humidity and 9.1 km/h winds. 
+What will the weather be in Stonehenge on Tuesday afternoon?
+The weather in Stonehenge on Tuesday afternoon will be 24.2°C with scattered clouds, 59.0 % humidity and 2.7 km/h winds. 
+Tuesday afternoon weather in Stonehenge?
+The weather in Stonehenge on Tuesday afternoon will be 24.2°C with scattered clouds, 59.0 % humidity and 2.7 km/h winds. 
+What will the weather be in Stonehenge on Thursday afternoon?
+The weather in Stonehenge on Thursday afternoon will be 18.0°C with broken clouds, 65.0 % humidity and 22.3 km/h winds. 
+Thursday afternoon weather in Stonehenge?
+The weather in Stonehenge on Thursday afternoon will be 18.0°C with broken clouds, 65.0 % humidity and 22.3 km/h winds. 
+What will the weather be in Stonehenge on Wednesday afternoon?
+The weather in Stonehenge on Wednesday afternoon will be 24.8°C with few clouds, 60.0 % humidity and 7.8 km/h winds. 
+Wednesday afternoon weather in Stonehenge?
+The weather in Stonehenge on Wednesday afternoon will be 24.8°C with few clouds, 60.0 % humidity and 7.8 km/h winds. 
+What will the weather be in Stonehenge on Monday afternoon?
+The weather in Stonehenge on Monday afternoon will be 20.9°C with overcast clouds, 74.0 % humidity and 10.7 km/h winds. 
+Monday afternoon weather in Stonehenge?
+The weather in Stonehenge on Monday afternoon will be 20.9°C with overcast clouds, 74.0 % humidity and 10.7 km/h winds. 
+What's the temperature in The Cotswolds?
+The Cotswolds will reach 19°C today, with a low of 19°C
+What's today's temperature in The Cotswolds?
+The Cotswolds will reach 19°C today, with a low of 19°C
+Is The Cotswolds cold today?
+The Cotswolds will reach 19°C today, with a low of 19°C
+The Cotswolds's temperature today?
+The Cotswolds will reach 19°C today, with a low of 19°C
+When should I visit The Cotswolds?
+The best day to visit The Cotswolds is Tuesday
+What's the best day to visit The Cotswolds?
+The best day to visit The Cotswolds is Tuesday
+When will The Cotswolds have nice weather?
+The best day to visit The Cotswolds is Tuesday
+Is The Cotswolds nice?
+The best day to visit The Cotswolds is Tuesday
+Should I visit The Cotswolds this week?
+The best day to visit The Cotswolds is Tuesday
+Should I visit The Cotswolds?
+The best day to visit The Cotswolds is Tuesday
+What will the weather be in The Cotswolds on Tuesday morning?
+The weather in The Cotswolds on Tuesday morning will be 20.0°C with clear sky, 75.0 % humidity and 4.2 km/h winds. 
+Tuesday morning weather in The Cotswolds?
+The weather in The Cotswolds on Tuesday morning will be 20.0°C with clear sky, 75.0 % humidity and 4.2 km/h winds. 
+What will the weather be in The Cotswolds on Thursday morning?
+The weather in The Cotswolds on Thursday morning will be 17.0°C with overcast clouds, 77.0 % humidity and 12.6 km/h winds. 
+Thursday morning weather in The Cotswolds?
+The weather in The Cotswolds on Thursday morning will be 17.0°C with overcast clouds, 77.0 % humidity and 12.6 km/h winds. 
+What will the weather be in The Cotswolds on Wednesday morning?
+The weather in The Cotswolds on Wednesday morning will be 19.4°C with clear sky, 75.0 % humidity and 10.6 km/h winds. 
+Wednesday morning weather in The Cotswolds?
+The weather in The Cotswolds on Wednesday morning will be 19.4°C with clear sky, 75.0 % humidity and 10.6 km/h winds. 
+What will the weather be in The Cotswolds on Monday morning?
+The weather in The Cotswolds on Monday morning will be 19.6°C with scattered clouds, 76.0 % humidity and 8.5 km/h winds. 
+Monday morning weather in The Cotswolds?
+The weather in The Cotswolds on Monday morning will be 19.6°C with scattered clouds, 76.0 % humidity and 8.5 km/h winds. 
+What will the weather be in The Cotswolds on Tuesday afternoon?
+The weather in The Cotswolds on Tuesday afternoon will be 23.5°C with clear sky, 60.0 % humidity and 6.3 km/h winds. 
+Tuesday afternoon weather in The Cotswolds?
+The weather in The Cotswolds on Tuesday afternoon will be 23.5°C with clear sky, 60.0 % humidity and 6.3 km/h winds. 
+What will the weather be in The Cotswolds on Thursday afternoon?
+The weather in The Cotswolds on Thursday afternoon will be 17.3°C with light rain, 70.0 % humidity and 16.2 km/h winds. 
+Thursday afternoon weather in The Cotswolds?
+The weather in The Cotswolds on Thursday afternoon will be 17.3°C with light rain, 70.0 % humidity and 16.2 km/h winds. 
+What will the weather be in The Cotswolds on Wednesday afternoon?
+The weather in The Cotswolds on Wednesday afternoon will be 24.0°C with scattered clouds, 60.0 % humidity and 6.5 km/h winds. 
+Wednesday afternoon weather in The Cotswolds?
+The weather in The Cotswolds on Wednesday afternoon will be 24.0°C with scattered clouds, 60.0 % humidity and 6.5 km/h winds. 
+What will the weather be in The Cotswolds on Monday afternoon?
+The weather in The Cotswolds on Monday afternoon will be 20.7°C with overcast clouds, 76.0 % humidity and 9.9 km/h winds. 
+Monday afternoon weather in The Cotswolds?
+The weather in The Cotswolds on Monday afternoon will be 20.7°C with overcast clouds, 76.0 % humidity and 9.9 km/h winds. 
+What's the temperature in Watergate Bay?
+Watergate Bay will reach 15°C today, with a low of 15°C
+What's today's temperature in Watergate Bay?
+Watergate Bay will reach 15°C today, with a low of 15°C
+Is Watergate Bay cold today?
+Watergate Bay will reach 15°C today, with a low of 15°C
+Watergate Bay's temperature today?
+Watergate Bay will reach 15°C today, with a low of 15°C
+When should I visit Watergate Bay?
+The best day to visit Watergate Bay is Monday
+What's the best day to visit Watergate Bay?
+The best day to visit Watergate Bay is Monday
+When will Watergate Bay have nice weather?
+The best day to visit Watergate Bay is Monday
+Is Watergate Bay nice?
+The best day to visit Watergate Bay is Monday
+Should I visit Watergate Bay this week?
+The best day to visit Watergate Bay is Monday
+Should I visit Watergate Bay?
+The best day to visit Watergate Bay is Monday
+What will the weather be in Watergate Bay on Tuesday morning?
+The weather in Watergate Bay on Tuesday morning will be 16.8°C with clear sky, 80.0 % humidity and 10.7 km/h winds. 
+Tuesday morning weather in Watergate Bay?
+The weather in Watergate Bay on Tuesday morning will be 16.8°C with clear sky, 80.0 % humidity and 10.7 km/h winds. 
+What will the weather be in Watergate Bay on Thursday morning?
+The weather in Watergate Bay on Thursday morning will be 15.0°C with broken clouds, 76.0 % humidity and 24.8 km/h winds. 
+Thursday morning weather in Watergate Bay?
+The weather in Watergate Bay on Thursday morning will be 15.0°C with broken clouds, 76.0 % humidity and 24.8 km/h winds. 
+What will the weather be in Watergate Bay on Wednesday morning?
+The weather in Watergate Bay on Wednesday morning will be 18.8°C with few clouds, 82.0 % humidity and 7.7 km/h winds. 
+Wednesday morning weather in Watergate Bay?
+The weather in Watergate Bay on Wednesday morning will be 18.8°C with few clouds, 82.0 % humidity and 7.7 km/h winds. 
+What will the weather be in Watergate Bay on Monday morning?
+The weather in Watergate Bay on Monday morning will be 16.9°C with clear sky, 84.0 % humidity and 6.7 km/h winds. 
+Monday morning weather in Watergate Bay?
+The weather in Watergate Bay on Monday morning will be 16.9°C with clear sky, 84.0 % humidity and 6.7 km/h winds. 
+What will the weather be in Watergate Bay on Tuesday afternoon?
+The weather in Watergate Bay on Tuesday afternoon will be 17.4°C with scattered clouds, 84.0 % humidity and 17.3 km/h winds. 
+Tuesday afternoon weather in Watergate Bay?
+The weather in Watergate Bay on Tuesday afternoon will be 17.4°C with scattered clouds, 84.0 % humidity and 17.3 km/h winds. 
+What will the weather be in Watergate Bay on Thursday afternoon?
+The weather in Watergate Bay on Thursday afternoon will be 14.9°C with clear sky, 71.0 % humidity and 27.7 km/h winds. 
+Thursday afternoon weather in Watergate Bay?
+The weather in Watergate Bay on Thursday afternoon will be 14.9°C with clear sky, 71.0 % humidity and 27.7 km/h winds. 
+What will the weather be in Watergate Bay on Wednesday afternoon?
+The weather in Watergate Bay on Wednesday afternoon will be 17.5°C with overcast clouds, 88.0 % humidity and 12.5 km/h winds. 
+Wednesday afternoon weather in Watergate Bay?
+The weather in Watergate Bay on Wednesday afternoon will be 17.5°C with overcast clouds, 88.0 % humidity and 12.5 km/h winds. 
+What will the weather be in Watergate Bay on Monday afternoon?
+The weather in Watergate Bay on Monday afternoon will be 17.3°C with scattered clouds, 80.0 % humidity and 6.8 km/h winds. 
+Monday afternoon weather in Watergate Bay?
+The weather in Watergate Bay on Monday afternoon will be 17.3°C with scattered clouds, 80.0 % humidity and 6.8 km/h winds. 

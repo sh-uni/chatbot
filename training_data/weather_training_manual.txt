@@ -1,0 +1,2 @@
+What's the weather?
+Please request a location like: "What's the weather in Bristol?"

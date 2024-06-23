@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mr Bot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+      #flex-container-main {
+        display: flex;
+        flex-flow: column;
+        background-color: grey;
+        min-width: 300px;
+        max-width: 500px;
+      }
+      #chatbox {
+        background-color: white;
+        padding: 15px;
+
+        margin: 5px;
+        text-align: left;
+        line-height: 15px;
+      }
+      #userInput {
+        display: flex;
+        flex-flow: row;
+        wrap: nowrap;
+        justify-content: right;
+        margin: 5px;
+      }
+      .userText {
+        text-align: right;
+        color: blue;
+      }
+      p {
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+      }
+
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="flex-container-main">
+      <div id="chatbox">
+        <p class="botText">
+          <span>
+            <strong>{{bot_name}}:</strong> Hi! I'm {{bot_name}}! Please say hello and ask me about the weather for your itinerary
+          </span>
+        </p>
+      </div>
+      <div id="userInput">
+        <input id="textInput" style="width:60%; margin-right:5px;" type="text" name="msg" placeholder="Message">
+        <input id="buttonInput" type="submit" value="Send">
+      </div>
+        <script>
+            function getBotResponse() {
+              var rawText = $("#textInput").val();
+              var userHtml = '<p class="userText"><span><strong>' + 'You: </strong>' + rawText + '</span></p>';
+              $("#textInput").val("");
+              $("#chatbox").append(userHtml);
+              document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+              $.get("/get", { msg: rawText }).done(function(data) {
+                var botHtml = '<p class="botText"><span><strong>' + '{{ bot_name }}' + ': </strong>' + data + '</span></p>';
+                $("#chatbox").append(botHtml);
+                document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+              });
+            }
+            $("#textInput").keypress(function(e) {
+                if ((e.which == 13) && document.getElementById("textInput").value != "" ){
+                    getBotResponse();
+                }
+            });
+            $("#buttonInput").click(function() {
+                if (document.getElementById("textInput").value != "") {
+                    getBotResponse();
+                }
+            })
+        </script>
+    </div>
+  </body>
+</html>
